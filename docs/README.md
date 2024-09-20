@@ -4,9 +4,7 @@
 
 This project presents a cutting-edge implementation of a ReAct (Reasoning and Action) agent enhanced with a dynamic Tool Agent. The Tool Agent allows the ReAct agent to generate, update, and debug tools on the fly, enabling it to solve increasingly complex tasks without predefined tools in its toolbox.
 
-### Workflow Diagram
-
-The following diagram shows how the ReAct agent and Tool agent work together.
+### Architecture Overview
 
 ![Image of the Workflow](diagram.svg)
 
